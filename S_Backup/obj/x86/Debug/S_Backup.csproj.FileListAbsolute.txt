@@ -1,0 +1,123 @@
+D:\CSharp\Backup\S_Backup\obj\x86\Debug\S_Backup.Form1.resources
+D:\CSharp\Backup\S_Backup\obj\x86\Debug\Solaris_Backup.Properties.Resources.resources
+D:\CSharp\Backup\S_Backup\obj\x86\Debug\S_Backup.csproj.GenerateResource.Cache
+D:\CSharp\Backup\S_Backup\bin\Debug\Solaris_Backup.exe
+D:\CSharp\Backup\S_Backup\bin\Debug\Solaris_Backup.pdb
+D:\CSharp\Backup\S_Backup\bin\Debug\Ionic.Zip.dll
+D:\CSharp\Backup\S_Backup\bin\Debug\Ionic.Zip.xml
+D:\CSharp\Backup\S_Backup\obj\x86\Debug\S_Backup.csprojResolveAssemblyReference.cache
+D:\CSharp\Backup\S_Backup\obj\x86\Debug\Solaris_Backup.exe
+D:\CSharp\Backup\S_Backup\obj\x86\Debug\Solaris_Backup.pdb
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Solaris_Backup.exe.config
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Solaris_Backup.exe
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Solaris_Backup.pdb
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Core.dll
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.dll
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Drive.v2.dll
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Ionic.Zip.dll
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\log4net.dll
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.IO.dll
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Net.Http.dll
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Runtime.dll
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Zlib.Portable.dll
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.pdb
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.xml
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Core.xml
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Drive.v2.pdb
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Drive.v2.xml
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Ionic.Zip.xml
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\log4net.xml
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.IO.xml
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Net.Http.xml
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Runtime.xml
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Threading.Tasks.xml
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Zlib.Portable.xml
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\obj\x86\Debug\S_Backup.csproj.App.config
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\obj\x86\Debug\GoogleDriveAdmin.Form1.resources
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\obj\x86\Debug\GoogleDriveAdmin.Properties.Resources.resources
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\obj\x86\Debug\S_Backup.csproj.GenerateResource.Cache
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\obj\x86\Debug\Solaris_Backup.exe
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\obj\x86\Debug\Solaris_Backup.pdb
+C:\Users\Nerd\Documents\Visual Studio 2012\Projects\Backup\S_Backup\obj\x86\Debug\S_Backup.csprojResolveAssemblyReference.cache
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Prodan Backup.exe.config
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Prodan Backup.exe
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Prodan Backup.pdb
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Core.dll
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.dll
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Drive.v2.dll
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Ionic.Zip.dll
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\log4net.dll
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.IO.dll
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Net.Http.dll
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Runtime.dll
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Zlib.Portable.dll
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.pdb
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.xml
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Core.pdb
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Core.xml
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Drive.v2.pdb
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.Drive.v2.xml
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Ionic.Zip.xml
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\log4net.xml
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.IO.xml
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Net.Http.xml
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Runtime.xml
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\System.Threading.Tasks.xml
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\bin\Debug\Zlib.Portable.xml
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\obj\x86\Debug\S_Backup.csproj.App.config
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\obj\x86\Debug\GoogleDriveAdmin.Properties.Resources.resources
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\obj\x86\Debug\S_Backup.csproj.GenerateResource.Cache
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\obj\x86\Debug\Prodan Backup.exe
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\obj\x86\Debug\Prodan Backup.pdb
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\obj\x86\Debug\S_Backup.csprojResolveAssemblyReference.cache
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\obj\x86\Debug\GoogleDriveAdmin.frmBackup.resources
+C:\Users\Nilton\Documents\Visual Studio 2012\Projects\Backup\S_Backup\obj\x86\Debug\GoogleDriveAdmin.frmConfig.resources
