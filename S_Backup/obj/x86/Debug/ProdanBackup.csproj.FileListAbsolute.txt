@@ -121,3 +121,6 @@ C:\Users\Nilton\Documents\Visual Studio 2015\Projects\Backup\S_Backup\bin\Debug\
 C:\Users\Nilton\Documents\Visual Studio 2015\Projects\Backup\S_Backup\bin\Debug\fr\Npgsql.resources.dll
 C:\Users\Nilton\Documents\Visual Studio 2015\Projects\Backup\S_Backup\bin\Debug\ja\Npgsql.resources.dll
 C:\Users\Nilton\Documents\Visual Studio 2015\Projects\Backup\S_Backup\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Nilton\Documents\GitHub\Backup\S_Backup\bin\Debug\Prodan Backup.exe.config
+C:\Users\Nilton\Documents\GitHub\Backup\S_Backup\obj\x86\Debug\Prodan Backup.exe
+C:\Users\Nilton\Documents\GitHub\Backup\S_Backup\obj\x86\Debug\Prodan Backup.pdb

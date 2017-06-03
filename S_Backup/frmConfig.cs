@@ -29,9 +29,7 @@ namespace ProdanBackup
             txtDest.Text = configuracoes.Default.destino;
             txtPswPostgres.UseSystemPasswordChar = true;
             btnPswPg.ImageIndex = 1;
-           
-            //if (configuracoes.Default.serverdrive.Equals(String.IsNullOrEmpty))
-            
+                       
             ListaDrives();
         }
 
@@ -92,7 +90,6 @@ namespace ProdanBackup
                 cmbDrives.SelectedItem = configuracoes.Default.serverdrive;
             }
         }
-
 
         public Odbc BuscaOdbc()
         {
